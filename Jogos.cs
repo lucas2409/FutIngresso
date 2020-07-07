@@ -78,5 +78,20 @@ namespace FutIngressos
             }
             return msg;
         }
+
+        public override string ToString()
+        {
+            return "Codigo: " + this.CodigoJogo +
+            "\r\n Data: " + this.Data +
+            "\r\n Descricao: " + this.Descricao +
+            "\r\n Local: " + this.LocalEstadio +
+            "\r\n Mandante: " + this.TimeMandante +
+            "\r\n Visitante: " + this.TimeVisitante +
+            "\r\n Disponivel: " + this.Disponivel +
+            "\r\n Ingressos Mandante: " + this.IngressosMandante +
+            "\r\n Ingressos Visitante: " + this.IngressosVisitante +
+            "\r\n Valor Mandante: " + this.ValorMandante +
+            "\r\n Valor Visitante: " + this.ValorVisitante;
+        }
     }
 }

@@ -11,3 +11,16 @@ C:\UWamp\www\FutIngresso_C#\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\Fu
 C:\UWamp\www\FutIngresso_C#\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.dll
 C:\UWamp\www\FutIngresso_C#\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.pdb
 C:\UWamp\www\FutIngresso_C#\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.genruntimeconfig.cache
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.exe
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.deps.json
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.runtimeconfig.json
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.runtimeconfig.dev.json
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.dll
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\bin\Debug\netcoreapp3.1\FutIngressos.pdb
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.csprojAssemblyReference.cache
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.AssemblyInfoInputs.cache
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.AssemblyInfo.cs
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.csproj.CoreCompileInputs.cache
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.dll
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.pdb
+C:\UWamp\www\FutIngresso\FutIngressos\FutIngressos\obj\Debug\netcoreapp3.1\FutIngressos.genruntimeconfig.cache
