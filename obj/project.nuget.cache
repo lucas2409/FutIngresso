@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUj+Y+sagNwVN0jSZyktXJucXf6W/lGguuhcsybJQVJt9w5vkXVI0s7Sfi0Bc2Qdi2FVUMnnUWxzBKdKukUx5A==",
+  "success": true,
+  "projectFilePath": "C:\\UWamp\\www\\FutIngresso\\FutIngressos\\FutIngressos\\FutIngressos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
